@@ -22,3 +22,4 @@ streamlit run e_sig_app.py
 When deploying via Streamlit Community Cloud:
 - Set the main file path as: `e_sig_app/e_sig_app.py`
 - Requirements are in: `e_sig_app/requirements.txt`
+# esignature_and_watermark
